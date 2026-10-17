@@ -1,0 +1,9 @@
+.token-demo { /* Demo token values */
+  --bs-radius-5: 0.5rem;
+  --bs-spacer: 1rem;
+  --bs-primary-base: var(--bs-purple-500);
+  --bs-primary-bg: var(--bs-primary-base);
+  --bs-primary-bg-subtle: light-dark(var(--bs-purple-100), var(--bs-purple-900));
+  --bs-primary-fg: light-dark(var(--bs-purple-600), var(--bs-purple-400));
+  --bs-primary-border: light-dark(var(--bs-purple-300), var(--bs-purple-600));
+}
